@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <string>
 #include <sstream>
+#include "EngineUtils.h"
 
 //Screen dimension constants
 const int SCREEN_WIDTH = 640;
